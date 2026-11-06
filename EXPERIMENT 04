@@ -1,0 +1,5 @@
+git clone https://git hub.com/USERNAME/Repository.git
+cd REPOSITORY
+git remote -v
+git status 
+git log --oneline-5
